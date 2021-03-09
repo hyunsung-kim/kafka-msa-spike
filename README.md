@@ -25,8 +25,7 @@ $ pipenv run python consumer.py
 ```
 
 ## Understanding kafka
-- [ ] https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d
-- [ ] https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb
+- [X] https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d
 - [ ] https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85
 
 ## WrapUp
